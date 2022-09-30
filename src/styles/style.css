@@ -1,0 +1,36 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+ 
+body {
+    font-family: "Roboto";
+    background-color: #625C5C;
+    color: #F4F4F4;
+}
+
+#intro {
+    width: 1100px;
+    border: 8px;
+    position: absolute;
+    top: 50px;
+    right: 30px;
+}
+
+#descriptionbot {
+    width: 900px;
+}
+
+.luxter.avatar {
+    height: 90px;
+    width: 90px;
+    position: absolute;
+    top: 15px;
+    left: 150px
+}
+
+.title {
+    font-size: 50px;
+}
+
+h2.description {
+    font-size: 25px;
+}
